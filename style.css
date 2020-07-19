@@ -1,0 +1,39 @@
+body {
+    margin: 0px;
+    background-color: #fd0404
+}
+
+.header {
+    color: #fab534
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+}
+
+.about {
+    color: #93bd45
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+}
+
+.origami {
+    border: solid;
+    border-width: 10px;
+    border-color: #3e145a;
+    border-radius: 20px;
+    background-color: #35fbb9;
+    width: 310px;
+    font-family: fantasy;
+    margin: 20px;
+    padding: 20px;
+}
